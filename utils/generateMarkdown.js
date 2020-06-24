@@ -3,7 +3,7 @@ const generateMarkdown = data => {
   return `
 
 # ${data.title.toUpperCase()}
-![License: ${(data.lic) ? data.lic : 'None'}](https://img.shields.io/github/languages/top/kikaiaku/fivedayforecast.io )
+![License: ${(data.lic) ? data.lic : 'None'}](https://img.shields.io/github/languages/top/kikaiaku/readmegen.io)
 _Repo by ${data.name.toUpperCase()}_
 
 
