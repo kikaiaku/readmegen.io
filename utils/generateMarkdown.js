@@ -9,16 +9,22 @@ _Repo by ${data.name.toUpperCase()}_
 
 __Installation:__
 ${data.inst}
+
+__Description:__
+${data.use}
+
 __Table of contents:__
 ${data.toc}
-__Usage:__
-${data.use}
+
+__licence:__
+${data.cb}
+
 __Contributors:__
 ${data.con}
-__licence__
-${data.cb}
+
 __Tests:__
 ${data.test}
+
 __Questions:__
 ${data.qs}
 `
