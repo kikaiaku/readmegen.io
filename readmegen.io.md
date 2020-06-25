@@ -4,24 +4,30 @@
 ![License: None](https://img.shields.io/github/languages/top/kikaiaku/readmegen.io)
 _Repo by KIKAIAKU_
 
+__Table of contents:__
+- [Installation](#inst)
+- [Description](#use)
+- [Licence](#cb)
+- [Contributors](#con)
+- [Tests](#test)
+- [Questions](#qs)
 
 __Installation:__
-install all packages that are associated with the index.js files --- axios- npm install- npm init -y --- make sure utils has github-api.js and generatemarkdown.js in the file---- run node index.js
+jjj
 
 __Description:__
-read me generator
+jj
 
-__Table of contents:__
-node_modules    ---  screenshots folder -- utils folder -- .gitignore -- index.js -- package -- package-lock -- .git folder -- readme--
 
-__licence__
+
+__licence:__
 MIT License
 
 __Contributors:__
-Tom Scarborough Jr.
+me
 
 __Tests:__
-N/A
+no
 
 __Questions:__
-tjscarb89@aol.com ----- https://github.com/kikaiaku
+no
