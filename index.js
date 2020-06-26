@@ -42,11 +42,7 @@ const init = async _ => {
       name: 'use',
       message: 'What is the usage description?'
     },
-    // {
-    //   type: 'input',
-    //   name: 'toc',
-    //   message: 'What are the table of contents?'
-    // },
+ 
     {
       type: 'checkbox',
       name: 'cb',

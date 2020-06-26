@@ -6,32 +6,32 @@ const generateMarkdown = data => {
 ![License: ${(data.lic) ? data.lic : 'None'}](https://img.shields.io/github/languages/top/kikaiaku/readmegen.io)
 _Repo by ${data.name.toUpperCase()}_
 
-__Table of contents:__
-- [Installation](#inst)
-- [Description](#use)
-- [Licence](#cb)
-- [Contributors](#con)
-- [Tests](#test)
-- [Questions](#qs)
+## Table of contents:
+- [Installation](#Installation)
+- [Description](#Description)
+- [Licence](#Licence)
+- [Contributors](#Contributors)
+- [Tests](#Tests)
+- [Questions](#Questions)
 
-__Installation:__
+## Installation:
 ${data.inst}
 
-__Description:__
+## Description:
 ${data.use}
 
 
 
-__licence:__
+## Licence:
 ${data.cb}
 
-__Contributors:__
+## Contributors:
 ${data.con}
 
-__Tests:__
+## Tests:
 ${data.test}
 
-__Questions:__
+## Questions:
 ${data.qs}
 `
 }
